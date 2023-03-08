@@ -1,6 +1,6 @@
 # Projeto-Vendas
 
-O objetivo do projeto foi realizar uma limpeza de dados de vendas nos EUA utilizando Python. Após essa etapa foi utilizado o Power BI para visualização dos dados e conclusões. 
+O objetivo do projeto foi realizar uma limpeza de dados de vendas utilizando Python. Após essa etapa foi utilizado o Power BI para visualização dos dados e conclusões. 
 
 # Etapas
 
